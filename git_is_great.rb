@@ -1,1 +1,1 @@
-puts "learning git"
+x = puts "learning git"
